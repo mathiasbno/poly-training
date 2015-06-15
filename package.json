@@ -1,0 +1,32 @@
+{
+  "name": "Poly-training",
+  "version": "1.0.0",
+  "engines": {
+    "node": "0.12.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "bash ./post_install.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mathiasbno/poly-training.git"
+  },
+  "author": "Mathias Benjaminsen",
+  "homepage": "https://github.com/mathiasbno/poly-training.git",
+  "dependencies": {
+    "bower": "^1.4.1",
+    "express": "^4.12.3",
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2",
+    "gulp-cssmin": "^0.1.6",
+    "gulp-inject": "^1.2.0",
+    "gulp-minify-html": "^1.0.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-run-sequence": "^0.3.2",
+    "gulp-stylus": "^2.0.1",
+    "gulp-uglify": "^1.2.0",
+    "main-bower-files": "^2.6.2",
+    "nib": "^1.1.0"
+  }
+}
