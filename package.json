@@ -1,0 +1,23 @@
+{
+  "name": "poly-training",
+  "version": "1.0.0",
+  "description": "Training app",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathiasbno/poly-training.git"
+  },
+  "author": "Mathias Benjaminsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathiasbno/poly-training/issues"
+  },
+  "homepage": "https://github.com/mathiasbno/poly-training#readme",
+  "dependencies": {
+    "express": "^4.12.4",
+    "gulp": "^3.9.0"
+  }
+}
